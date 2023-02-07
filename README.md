@@ -1,2 +1,1 @@
-# led-neon
-LED SCROLLER
+# led-scroller
